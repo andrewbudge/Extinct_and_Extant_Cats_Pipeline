@@ -42,8 +42,8 @@ for (i in 1:length(unique(cat_tax$ids))){
 }
 
 
-write.csv(catdat, paste0('catdat_',gene, '.csv'), row.names=FALSE)
-write(mitosequence, file=paste0(gene,"_test.fasta"))
+write.csv(catdat, paste0('data/raw/catdat_',gene, '.csv'), row.names=FALSE)
+write(mitosequence, file=paste0("data/raw/felidae_",gene,".fasta"))
 
 #### Creating the function for the process ####
 cat_dat_collection <- function(gene) {
@@ -81,8 +81,8 @@ cat_dat_collection <- function(gene) {
   }
   
   
-  write.csv(catdat, paste0('data/catdat_',gene, '.csv'), row.names=FALSE)
-  write(mitosequence, file=paste0('data/', gene,"_test.fasta"))
+  write.csv(catdat, paste0('data/raw/catdat_',gene, '.csv'), row.names=FALSE)
+  write(mitosequence, file=paste0('data/raw/felidae_', gene,".fasta"))
   
 }
 
