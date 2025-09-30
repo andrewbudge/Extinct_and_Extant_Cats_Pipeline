@@ -1,0 +1,136 @@
+"taxid","speciesname","accnum","seqname","slen"
+"3435967","Lynx sp.",NA,NA,NA
+"3435966","unclassified Lynx",NA,NA,NA
+"3416723","Felis catus x Leptailurus serval",NA,NA,NA
+"3370154","Leopardus pardinoides",NA,NA,NA
+"3135897","Panthera pardus nimr",NA,NA,NA
+"3113013","Panthera leo melanochaita",NA,NA,NA
+"3055739","Leopardus tigrinus tigrinus",NA,NA,NA
+"3055737","Leopardus colocola colocola",NA,NA,NA
+"3055735","Leopardus tigrinus oncilla",NA,NA,NA
+"3055734","Leopardus guigna tigrillo",NA,NA,NA
+"3055721","Leopardus pardalis pardalis",NA,NA,NA
+"3055696","Leopardus colocola",NA,NA,NA
+"3042500","Acinonyx jubatus hecki",NA,NA,NA
+"2991501","Panthera pardus adersi",NA,NA,NA
+"2940083","Leopardus wiedii wiedii",NA,NA,NA
+"2940082","Leopardus pardalis mitis",NA,NA,NA
+"2931811","Panthera tigris virgata",NA,NA,NA
+"2927071","Felidae incertae sedis",NA,NA,NA
+"2876546","Panthera pardus tulliana",NA,NA,NA
+"2816903","Panthera pardus kotiya",NA,NA,NA
+"2796247","Felis catus x Leopardus geoffroyi",NA,NA,NA
+"2782171","Felis catus x Prionailurus bengalensis",NA,NA,NA
+"2782170","Felinae intergeneric hybrids",NA,NA,NA
+"2775351","Panthera pardus fontanierii",NA,NA,NA
+"2770979","Panthera spelaea",NA,NA,NA
+"2714992","Acinonyx jubatus venaticus",NA,NA,NA
+"2714991","Acinonyx jubatus soemmeringii",NA,NA,NA
+"2665947","Felis environmental sample",NA,NA,NA
+"2665946","environmental samples",NA,NA,NA
+"2625412","unclassified Felis",NA,NA,NA
+"2576912","Felis chaus x Felis catus",NA,NA,NA
+"2048657","Homotherium latidens",NA,NA,NA
+"1935980","Felidae sp.",NA,NA,NA
+"1915120","Prionailurus bengalensis rabori",NA,NA,NA
+"1608501","Leopardus guttulus",NA,NA,NA
+"1608482","Herpailurus yagouaroundi","XM_040447293.1","PREDICTED: Herpailurus yagouaroundi agouti signaling protein (ASIP), transcript variant X6, mRNA","756"
+"1605429","Lynx canadensis subsolanus",NA,NA,NA
+"1590992","Acinonyx jubatus jubatus",NA,NA,NA
+"1479606","Prionailurus bengalensis bengalensis","KJ395771.1","Prionailurus bengalensis bengalensis agouti signaling protein variant 2 (ASIP) gene, exon 4 and partial cds","302"
+"1446311","Panthera leo leo",NA,NA,NA
+"1403448","Leptailurus serval x Caracal caracal",NA,NA,NA
+"1051137","Leopardus pardalis albescens",NA,NA,NA
+"1002257","Lynx environmental sample",NA,NA,NA
+"1002256","environmental samples",NA,NA,NA
+"713925","Leopardus jacobita",NA,NA,NA
+"694476","Puma concolor couguar",NA,NA,NA
+"644771","Panthera tigris sondaica",NA,NA,NA
+"637857","Panthera leo krugeri",NA,NA,NA
+"472295","Panthera leo bleyenberghi",NA,NA,NA
+"463207","Felis silvestris silvestris",NA,NA,NA
+"458418","Felis silvestris bieti",NA,NA,NA
+"458417","Felis silvestris ornata",NA,NA,NA
+"458416","Felis silvestris cafra",NA,NA,NA
+"427616","Neofelis diardi",NA,NA,NA
+"427615","Neofelis nebulosa nebulosa",NA,NA,NA
+"421001","Panthera pardus fusca",NA,NA,NA
+"419130","Panthera tigris jacksoni",NA,NA,NA
+"402889","Panthera leo atrox",NA,NA,NA
+"399178","Panthera onca mesembrina",NA,NA,NA
+"348288","Panthera pardus japonensis",NA,NA,NA
+"339614","Homotherium serum",NA,NA,NA
+"339613","Homotherium",NA,NA,NA
+"339612","Miracinonyx trumani",NA,NA,NA
+"339611","Miracinonyx",NA,NA,NA
+"339610","unclassified Felidae",NA,NA,NA
+"339609","Smilodon populator",NA,NA,NA
+"338153","Pantherinae","XM_060615994.1","PREDICTED: Panthera onca agouti signaling protein (ASIP), mRNA","7984"
+"338152","Felinae","XM_040447293.1","PREDICTED: Herpailurus yagouaroundi agouti signaling protein (ASIP), transcript variant X6, mRNA","756"
+"320633","Felis sp. NG192",NA,NA,NA
+"300877","Prionailurus bengalensis euptilurus","KJ395769.1","Prionailurus bengalensis euptilurus agouti signaling protein (ASIP) gene, exon 4 and partial cds","302"
+"253258","Panthera tigris amoyensis",NA,NA,NA
+"235915","Panthera leo x Panthera tigris",NA,NA,NA
+"235557","Panthera leo persica x Panthera leo leo",NA,NA,NA
+"191816","Lynx pardinus",NA,NA,NA
+"147328","Prionailurus bengalensis chinensis",NA,NA,NA
+"146712","Puma","XM_025932418.1","PREDICTED: Puma concolor agouti signaling protein (ASIP), mRNA","408"
+"83386","Panthera leo persica",NA,NA,NA
+"74535","Panthera tigris tigris",NA,NA,NA
+"74534","Panthera tigris corbetti",NA,NA,NA
+"74533","Panthera tigris altaica",NA,NA,NA
+"61455","Catopuma temminckii","JX845178.1","Catopuma temminckii agouti signaling protein (ASIP) gene, complete cds","608"
+"61454","Catopuma badia",NA,NA,NA
+"61453","Catopuma","JX845178.1","Catopuma temminckii agouti signaling protein (ASIP) gene, complete cds","608"
+"61452","Neofelis nebulosa","XM_058685347.1","PREDICTED: Neofelis nebulosa agouti signaling protein (ASIP), transcript variant X3, mRNA","4349"
+"61451","Neofelis","XM_058685347.1","PREDICTED: Neofelis nebulosa agouti signaling protein (ASIP), transcript variant X3, mRNA","4349"
+"61412","Profelis aurata",NA,NA,NA
+"61411","Profelis",NA,NA,NA
+"61410","Pardofelis marmorata",NA,NA,NA
+"61409","Pardofelis",NA,NA,NA
+"61408","Otocolobus manul",NA,NA,NA
+"61407","Otocolobus",NA,NA,NA
+"61405","Leptailurus serval","KJ395773.1","Leptailurus serval agouti signaling protein variant 2 (ASIP) gene, exon 4 and partial cds","304"
+"61404","Leptailurus","KJ395773.1","Leptailurus serval agouti signaling protein variant 2 (ASIP) gene, exon 4 and partial cds","304"
+"61403","Prionailurus planiceps",NA,NA,NA
+"61401","Herpailurus","XM_040447293.1","PREDICTED: Herpailurus yagouaroundi agouti signaling protein (ASIP), transcript variant X6, mRNA","756"
+"61394","Caracal caracal",NA,NA,NA
+"61393","Caracal",NA,NA,NA
+"61388","Prionailurus viverrinus","XM_047854210.1","PREDICTED: Prionailurus viverrinus agouti signaling protein (ASIP), transcript variant X4, mRNA","2686"
+"61387","Prionailurus rubiginosus",NA,NA,NA
+"61386","Leopardus guigna",NA,NA,NA
+"61384","Lynx rufus","XM_047069843.1","PREDICTED: Lynx rufus agouti signaling protein (ASIP), mRNA","426"
+"61383","Lynx canadensis",NA,NA,NA
+"61382","Leopardus wiedii",NA,NA,NA
+"61379","Felis nigripes",NA,NA,NA
+"61378","Felis margarita",NA,NA,NA
+"61377","Felis silvestris lybica",NA,NA,NA
+"61376","Felis chaus","KJ395774.1","Felis chaus agouti signaling protein (ASIP) gene, exon 2 and partial cds","431"
+"46844","Leopardus geoffroyi",NA,NA,NA
+"46842","Leopardus tigrinus",NA,NA,NA
+"46841","Leopardus",NA,NA,NA
+"37030","Prionailurus iriomotensis",NA,NA,NA
+"37029","Prionailurus bengalensis","KJ395771.1","Prionailurus bengalensis bengalensis agouti signaling protein variant 2 (ASIP) gene, exon 4 and partial cds","302"
+"37028","Prionailurus","XM_047854210.1","PREDICTED: Prionailurus viverrinus agouti signaling protein (ASIP), transcript variant X4, mRNA","2686"
+"32538","Leopardus pardalis",NA,NA,NA
+"32536","Acinonyx jubatus","XR_008289137.1","PREDICTED: Acinonyx jubatus agouti signaling protein (ASIP), transcript variant X3, misc_RNA","1663"
+"32535","Acinonyx","XR_008289137.1","PREDICTED: Acinonyx jubatus agouti signaling protein (ASIP), transcript variant X3, misc_RNA","1663"
+"29064","Panthera uncia","XM_049649975.1","PREDICTED: Panthera uncia agouti signaling protein (ASIP), transcript variant X2, mRNA","825"
+"13266","Smilodon fatalis",NA,NA,NA
+"13265","Smilodon",NA,NA,NA
+"13125","Lynx lynx",NA,NA,NA
+"13124","Lynx","XM_047069843.1","PREDICTED: Lynx rufus agouti signaling protein (ASIP), mRNA","426"
+"9696","Puma concolor","XM_025932418.1","PREDICTED: Puma concolor agouti signaling protein (ASIP), mRNA","408"
+"9695","Panthera tigris sumatrae",NA,NA,NA
+"9694","Panthera tigris",NA,NA,NA
+"9693","Panthera pardus saxicolor",NA,NA,NA
+"9692","Panthera pardus orientalis",NA,NA,NA
+"9691","Panthera pardus","XM_019458744.2","PREDICTED: Panthera pardus agouti signaling protein (ASIP), transcript variant X3, mRNA","825"
+"9690","Panthera onca","XM_060615994.1","PREDICTED: Panthera onca agouti signaling protein (ASIP), mRNA","7984"
+"9689","Panthera leo",NA,NA,NA
+"9688","Panthera","XM_060615994.1","PREDICTED: Panthera onca agouti signaling protein (ASIP), mRNA","7984"
+"9687","Felis sp.",NA,NA,NA
+"9685","Felis catus","NM_001009190.1","Felis catus agouti signaling protein (ASIP), mRNA","408"
+"9683","Felis silvestris",NA,NA,NA
+"9682","Felis","NM_001009190.1","Felis catus agouti signaling protein (ASIP), mRNA","408"
+"9681","Felidae","XM_040447293.1","PREDICTED: Herpailurus yagouaroundi agouti signaling protein (ASIP), transcript variant X6, mRNA","756"

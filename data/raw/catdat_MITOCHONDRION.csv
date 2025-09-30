@@ -1,0 +1,136 @@
+"taxid","speciesname","accnum","seqname","slen"
+"3435967","Lynx sp.",NA,NA,NA
+"3435966","unclassified Lynx",NA,NA,NA
+"3416723","Felis catus x Leptailurus serval",NA,NA,NA
+"3370154","Leopardus pardinoides","OR257582.1","Leopardus tigrinus pardinoides isolate LTI-32454 voucher IAVH:CT-32454 mitochondrion, complete genome","17419"
+"3135897","Panthera pardus nimr","PQ283265.2","Panthera pardus nimr mitochondrion, complete genome","16781"
+"3113013","Panthera leo melanochaita",NA,NA,NA
+"3055739","Leopardus tigrinus tigrinus",NA,NA,NA
+"3055737","Leopardus colocola colocola","OR556000.1","UNVERIFIED: Leopardus colocola colocola mitochondrion sequence","17885"
+"3055735","Leopardus tigrinus oncilla",NA,NA,NA
+"3055734","Leopardus guigna tigrillo","OR822031.1","Leopardus guigna tigrillo isolate Lgui1CL mitochondrion, complete genome","17417"
+"3055721","Leopardus pardalis pardalis","OR822032.1","Leopardus pardalis pardalis isolate wmLPA-1 mitochondrion, complete genome","17245"
+"3055696","Leopardus colocola","OR556000.1","UNVERIFIED: Leopardus colocola colocola mitochondrion sequence","17885"
+"3042500","Acinonyx jubatus hecki",NA,NA,NA
+"2991501","Panthera pardus adersi",NA,NA,NA
+"2940083","Leopardus wiedii wiedii",NA,NA,NA
+"2940082","Leopardus pardalis mitis",NA,NA,NA
+"2931811","Panthera tigris virgata",NA,NA,NA
+"2927071","Felidae incertae sedis","MF871703.1","Homotherium latidens mitochondrion, partial genome","15437"
+"2876546","Panthera pardus tulliana",NA,NA,NA
+"2816903","Panthera pardus kotiya","ON652849.1","Panthera pardus kotiya voucher DWC PPK-B mitochondrion, complete genome","16858"
+"2796247","Felis catus x Leopardus geoffroyi",NA,NA,NA
+"2782171","Felis catus x Prionailurus bengalensis",NA,NA,NA
+"2782170","Felinae intergeneric hybrids",NA,NA,NA
+"2775351","Panthera pardus fontanierii",NA,NA,NA
+"2770979","Panthera spelaea","OK513017.1","Panthera spelaea voucher UB J.S.951 mitochondrion, complete genome","16692"
+"2714992","Acinonyx jubatus venaticus","MK469963.1","Acinonyx jubatus venaticus mitochondrion, partial genome","16842"
+"2714991","Acinonyx jubatus soemmeringii","MK469961.1","Acinonyx jubatus soemmeringii mitochondrion, complete genome","17044"
+"2665947","Felis environmental sample",NA,NA,NA
+"2665946","environmental samples",NA,NA,NA
+"2625412","unclassified Felis",NA,NA,NA
+"2576912","Felis chaus x Felis catus",NA,NA,NA
+"2048657","Homotherium latidens","MF871703.1","Homotherium latidens mitochondrion, partial genome","15437"
+"1935980","Felidae sp.",NA,NA,NA
+"1915120","Prionailurus bengalensis rabori",NA,NA,NA
+"1608501","Leopardus guttulus","NC_085265.1","Leopardus guttulus isolate bLgt-652 voucher FURB18963 mitochondrion, complete genome","17944"
+"1608482","Herpailurus yagouaroundi","NC_028311.1","Puma yagouaroundi isolate HJA mitochondrion, complete genome","16700"
+"1605429","Lynx canadensis subsolanus",NA,NA,NA
+"1590992","Acinonyx jubatus jubatus","MK469962.1","Acinonyx jubatus jubatus mitochondrion, partial genome","16844"
+"1479606","Prionailurus bengalensis bengalensis",NA,NA,NA
+"1446311","Panthera leo leo","MT916290.1","Panthera leo leo mitochondrion, complete genome","16757"
+"1403448","Leptailurus serval x Caracal caracal",NA,NA,NA
+"1051137","Leopardus pardalis albescens",NA,NA,NA
+"1002257","Lynx environmental sample",NA,NA,NA
+"1002256","environmental samples",NA,NA,NA
+"713925","Leopardus jacobita","OR822033.1","Leopardus jacobita isolate LJA-1 mitochondrion, complete genome","17290"
+"694476","Puma concolor couguar",NA,NA,NA
+"644771","Panthera tigris sondaica",NA,NA,NA
+"637857","Panthera leo krugeri",NA,NA,NA
+"472295","Panthera leo bleyenberghi",NA,NA,NA
+"463207","Felis silvestris silvestris",NA,NA,NA
+"458418","Felis silvestris bieti","KP202273.1","Felis silvestris bieti isolate FBI mitochondrion, complete genome","16809"
+"458417","Felis silvestris ornata",NA,NA,NA
+"458416","Felis silvestris cafra",NA,NA,NA
+"427616","Neofelis diardi","NC_072125.1","Neofelis diardi mitochondrion, complete genome","16094"
+"427615","Neofelis nebulosa nebulosa",NA,NA,NA
+"421001","Panthera pardus fusca","MZ494189.1","UNVERIFIED: Panthera pardus fusca isolate H3 mitochondrion sequence","263"
+"419130","Panthera tigris jacksoni",NA,NA,NA
+"402889","Panthera leo atrox","OK513020.1","Panthera leo atrox from USA mitochondrion, partial genome","16685"
+"399178","Panthera onca mesembrina",NA,NA,NA
+"348288","Panthera pardus japonensis","OR871437.1","Panthera pardus japonensis isolate Laosicheng2_10YLG10_134 mitochondrion, complete genome","16964"
+"339614","Homotherium serum",NA,NA,NA
+"339613","Homotherium","MF871703.1","Homotherium latidens mitochondrion, partial genome","15437"
+"339612","Miracinonyx trumani",NA,NA,NA
+"339611","Miracinonyx",NA,NA,NA
+"339610","unclassified Felidae",NA,NA,NA
+"339609","Smilodon populator","MF871700.1","Smilodon populator voucher ZMA20.042 mitochondrion, partial genome","15459"
+"338153","Pantherinae","PQ283265.2","Panthera pardus nimr mitochondrion, complete genome","16781"
+"338152","Felinae","PV369935.1","Lynx rufus isolate AZ88_KD mitochondrion, complete genome","17114"
+"320633","Felis sp. NG192",NA,NA,NA
+"300877","Prionailurus bengalensis euptilurus","OR450323.1","Prionailurus bengalensis euptilurus mitochondrion, complete genome","16902"
+"253258","Panthera tigris amoyensis","NC_014770.1","Panthera tigris amoyensis mitochondrion, complete genome","17001"
+"235915","Panthera leo x Panthera tigris",NA,NA,NA
+"235557","Panthera leo persica x Panthera leo leo",NA,NA,NA
+"191816","Lynx pardinus","NC_028319.1","Lynx pardinus isolate LYP mitochondrion, complete genome","16806"
+"147328","Prionailurus bengalensis chinensis",NA,NA,NA
+"146712","Puma","NC_016470.1","Puma concolor mitochondrion, complete genome","17153"
+"83386","Panthera leo persica","NC_018053.1","Panthera leo persica mitochondrion, complete genome","16818"
+"74535","Panthera tigris tigris","KF892541.1","Panthera tigris tigris mitochondrion, complete genome","16973"
+"74534","Panthera tigris corbetti","JF357972.1","Panthera tigris corbetti isolate CORBETTI2 mitochondrion, partial genome","14174"
+"74533","Panthera tigris altaica","BK062824.1","TPA_asm: Panthera tigris altaica isolate SRR7429866 mitochondrion, complete genome","16972"
+"61455","Catopuma temminckii","NC_027115.1","Catopuma temminckii mitochondrion, complete genome","16985"
+"61454","Catopuma badia","NC_028300.1","Catopuma badia isolate PBA mitochondrion, complete genome","16693"
+"61453","Catopuma","NC_028300.1","Catopuma badia isolate PBA mitochondrion, complete genome","16693"
+"61452","Neofelis nebulosa","OR682198.1","Neofelis nebulosa mitochondrion, complete genome","16644"
+"61451","Neofelis","OR682198.1","Neofelis nebulosa mitochondrion, complete genome","16644"
+"61412","Profelis aurata","NC_028299.1","Profelis aurata isolate PAU mitochondrion, complete genome","16826"
+"61411","Profelis","NC_028299.1","Profelis aurata isolate PAU mitochondrion, complete genome","16826"
+"61410","Pardofelis marmorata","NC_028303.1","Pardofelis marmorata isolate PMA mitochondrion, complete genome","16827"
+"61409","Pardofelis","NC_028303.1","Pardofelis marmorata isolate PMA mitochondrion, complete genome","16827"
+"61408","Otocolobus manul","NC_028323.1","Otocolobus manul isolate OMA mitochondrion, complete genome","16626"
+"61407","Otocolobus","NC_028323.1","Otocolobus manul isolate OMA mitochondrion, complete genome","16626"
+"61405","Leptailurus serval","NC_028316.1","Leptailurus serval isolate LSE mitochondrion, complete genome","16708"
+"61404","Leptailurus","NC_028316.1","Leptailurus serval isolate LSE mitochondrion, complete genome","16708"
+"61403","Prionailurus planiceps","NC_028312.1","Prionailurus planiceps isolate IPL mitochondrion, complete genome","16709"
+"61401","Herpailurus","NC_028311.1","Puma yagouaroundi isolate HJA mitochondrion, complete genome","16700"
+"61394","Caracal caracal","PP566121.1","Caracal caracal isolate CCX166_mtD mitochondrion, complete genome","16901"
+"61393","Caracal","PP566121.1","Caracal caracal isolate CCX166_mtD mitochondrion, complete genome","16901"
+"61388","Prionailurus viverrinus","NC_028305.1","Prionailurus viverrinus isolate PVI mitochondrion, complete genome","16723"
+"61387","Prionailurus rubiginosus","NC_028304.1","Prionailurus rubiginosus isolate PRU mitochondrion, complete genome","16832"
+"61386","Leopardus guigna","OR822031.1","Leopardus guigna tigrillo isolate Lgui1CL mitochondrion, complete genome","17417"
+"61384","Lynx rufus","PV369935.1","Lynx rufus isolate AZ88_KD mitochondrion, complete genome","17114"
+"61383","Lynx canadensis","NC_028313.1","Lynx canadensis isolate LCA mitochondrion, complete genome","16666"
+"61382","Leopardus wiedii","NC_028318.1","Leopardus wiedii isolate LWI mitochondrion, complete genome","16704"
+"61379","Felis nigripes","NC_028309.1","Felis nigripes isolate FNI mitochondrion, complete genome","16723"
+"61378","Felis margarita","OR095102.1","Felis margarita mitochondrion, complete genome","16435"
+"61377","Felis silvestris lybica","OW373404.1","Felis silvestris lybica Mitochondrion genomic DNA containing trnaL-ND5-ND6-trnaG-cytb-trnaT-trnaP-CR region, isolate FS13b","3893"
+"61376","Felis chaus","NC_028307.1","Felis chaus isolate FCH mitochondrion, complete genome","16653"
+"46844","Leopardus geoffroyi","NC_028320.1","Leopardus geoffroyi isolate OGE mitochondrion, complete genome","16738"
+"46842","Leopardus tigrinus","OR822034.1","Leopardus tigrinus isolate bLti-242 mitochondrion, complete genome","17581"
+"46841","Leopardus","NC_085265.1","Leopardus guttulus isolate bLgt-652 voucher FURB18963 mitochondrion, complete genome","17944"
+"37030","Prionailurus iriomotensis","AB210246.1","Prionailurus iriomotensis mitochondrial DNA, D-loop region, haplotype: FDN6","726"
+"37029","Prionailurus bengalensis","PP748584.1","Prionailurus bengalensis isolate BM mitochondrion, complete genome","16936"
+"37028","Prionailurus","PP748584.1","Prionailurus bengalensis isolate BM mitochondrion, complete genome","16936"
+"32538","Leopardus pardalis","OR822032.1","Leopardus pardalis pardalis isolate wmLPA-1 mitochondrion, complete genome","17245"
+"32536","Acinonyx jubatus","NC_005212.1","Acinonyx jubatus mitochondrion, complete genome","17047"
+"32535","Acinonyx","NC_005212.1","Acinonyx jubatus mitochondrion, complete genome","17047"
+"29064","Panthera uncia","PP646880.1","Panthera uncia isolate XB_x34 mitochondrion, complete genome","16778"
+"13266","Smilodon fatalis",NA,NA,NA
+"13265","Smilodon","MF871700.1","Smilodon populator voucher ZMA20.042 mitochondrion, partial genome","15459"
+"13125","Lynx lynx","NC_027083.1","Lynx lynx mitochondrion, complete genome","17046"
+"13124","Lynx","PV369935.1","Lynx rufus isolate AZ88_KD mitochondrion, complete genome","17114"
+"9696","Puma concolor","NC_016470.1","Puma concolor mitochondrion, complete genome","17153"
+"9695","Panthera tigris sumatrae","JF357970.1","Panthera tigris sumatrae isolate SUMATRA2 mitochondrion, complete genome","17001"
+"9694","Panthera tigris","NC_014770.1","Panthera tigris amoyensis mitochondrion, complete genome","17001"
+"9693","Panthera pardus saxicolor",NA,NA,NA
+"9692","Panthera pardus orientalis","KX655614.1","Panthera pardus orientalis mitochondrion, complete genome","16976"
+"9691","Panthera pardus","PQ283265.2","Panthera pardus nimr mitochondrion, complete genome","16781"
+"9690","Panthera onca","OR327006.1","Panthera onca isolate NAm_Pleistocene_Ponca mitochondrion, partial genome","17063"
+"9689","Panthera leo","NC_028302.1","Panthera leo isolate PLE mitochondrion, complete genome","16620"
+"9688","Panthera","PQ283265.2","Panthera pardus nimr mitochondrion, complete genome","16781"
+"9687","Felis sp.",NA,NA,NA
+"9685","Felis catus","PP070534.1","Felis catus isolate M5 mitochondrion, complete genome","17048"
+"9683","Felis silvestris","OR095103.1","Felis silvestris mitochondrion, complete genome","16437"
+"9682","Felis","PP070534.1","Felis catus isolate M5 mitochondrion, complete genome","17048"
+"9681","Felidae","PQ283265.2","Panthera pardus nimr mitochondrion, complete genome","16781"
