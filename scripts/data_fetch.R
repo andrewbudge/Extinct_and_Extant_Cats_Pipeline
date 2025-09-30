@@ -51,6 +51,7 @@ cat_dat_collection <- function(gene) {
   catdat <- matrix(, nrow=(length(unique(cat_tax$ids))), ncol=5)
   colnames(catdat)<-c('taxid', 'speciesname', 'accnum', 'seqname', 'slen')
   i <- 1
+  hits <- 0
   mitosequence <- character()
   for (i in 1:length(unique(cat_tax$ids))){
     print(i)
@@ -69,6 +70,7 @@ cat_dat_collection <- function(gene) {
       
     }
     else {
+      hits <- hits + 1
       sumout <- entrez_summary(db='nuccore', id=seqout$ids)
       catdat[i,3] <- sumout$accessionversion
       catdat[i,4] <- sumout$title
@@ -80,10 +82,14 @@ cat_dat_collection <- function(gene) {
     }
   }
   
-  
-  write.csv(catdat, paste0('data/raw/felidae_',gene, '_info.csv'), row.names=FALSE)
-  write(mitosequence, file=paste0('data/raw/felidae_', gene,".fasta"))
-  
+  if (hits != 0){
+    print(paste(hits, "hits found"))
+    write.csv(catdat, paste0('data/raw/felidae_',gene, '_info.csv'), row.names=FALSE)
+    write(mitosequence, file=paste0('data/raw/felidae_', gene,".fasta"))
+  }
+  else {
+    print("Nothing was Found")
+  }
 }
 
 # Collecting for individual genes
@@ -91,6 +97,10 @@ cat_dat_collection(gene='NCR1')
 cat_dat_collection(gene='ASIP')
 cat_dat_collection(gene='CMAH')
 cat_dat_collection(gene='KIT')
+cat_dat_collection(gene='ACTN3')
+cat_dat_collection(gene='CH2')
+cat_dat_collection(gene='NCR2')
+cat_dat_collection(gene='NCR3')
 
 
 

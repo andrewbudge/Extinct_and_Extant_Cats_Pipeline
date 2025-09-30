@@ -1,0 +1,136 @@
+"taxid","speciesname","accnum","seqname","slen"
+"3435967","Lynx sp.",NA,NA,NA
+"3435966","unclassified Lynx",NA,NA,NA
+"3416723","Felis catus x Leptailurus serval",NA,NA,NA
+"3370154","Leopardus pardinoides",NA,NA,NA
+"3135897","Panthera pardus nimr",NA,NA,NA
+"3113013","Panthera leo melanochaita",NA,NA,NA
+"3055739","Leopardus tigrinus tigrinus",NA,NA,NA
+"3055737","Leopardus colocola colocola",NA,NA,NA
+"3055735","Leopardus tigrinus oncilla",NA,NA,NA
+"3055734","Leopardus guigna tigrillo",NA,NA,NA
+"3055721","Leopardus pardalis pardalis",NA,NA,NA
+"3055696","Leopardus colocola",NA,NA,NA
+"3042500","Acinonyx jubatus hecki",NA,NA,NA
+"2991501","Panthera pardus adersi",NA,NA,NA
+"2940083","Leopardus wiedii wiedii",NA,NA,NA
+"2940082","Leopardus pardalis mitis",NA,NA,NA
+"2931811","Panthera tigris virgata",NA,NA,NA
+"2927071","Felidae incertae sedis",NA,NA,NA
+"2876546","Panthera pardus tulliana",NA,NA,NA
+"2816903","Panthera pardus kotiya",NA,NA,NA
+"2796247","Felis catus x Leopardus geoffroyi",NA,NA,NA
+"2782171","Felis catus x Prionailurus bengalensis",NA,NA,NA
+"2782170","Felinae intergeneric hybrids",NA,NA,NA
+"2775351","Panthera pardus fontanierii",NA,NA,NA
+"2770979","Panthera spelaea",NA,NA,NA
+"2714992","Acinonyx jubatus venaticus",NA,NA,NA
+"2714991","Acinonyx jubatus soemmeringii",NA,NA,NA
+"2665947","Felis environmental sample",NA,NA,NA
+"2665946","environmental samples",NA,NA,NA
+"2625412","unclassified Felis",NA,NA,NA
+"2576912","Felis chaus x Felis catus",NA,NA,NA
+"2048657","Homotherium latidens",NA,NA,NA
+"1935980","Felidae sp.",NA,NA,NA
+"1915120","Prionailurus bengalensis rabori",NA,NA,NA
+"1608501","Leopardus guttulus",NA,NA,NA
+"1608482","Herpailurus yagouaroundi","XM_040463391.1","PREDICTED: Herpailurus yagouaroundi natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","999"
+"1605429","Lynx canadensis subsolanus",NA,NA,NA
+"1590992","Acinonyx jubatus jubatus",NA,NA,NA
+"1479606","Prionailurus bengalensis bengalensis",NA,NA,NA
+"1446311","Panthera leo leo",NA,NA,NA
+"1403448","Leptailurus serval x Caracal caracal",NA,NA,NA
+"1051137","Leopardus pardalis albescens",NA,NA,NA
+"1002257","Lynx environmental sample",NA,NA,NA
+"1002256","environmental samples",NA,NA,NA
+"713925","Leopardus jacobita",NA,NA,NA
+"694476","Puma concolor couguar",NA,NA,NA
+"644771","Panthera tigris sondaica",NA,NA,NA
+"637857","Panthera leo krugeri","ON312391.1","Panthera leo krugeri isolate W65 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5602"
+"472295","Panthera leo bleyenberghi",NA,NA,NA
+"463207","Felis silvestris silvestris",NA,NA,NA
+"458418","Felis silvestris bieti",NA,NA,NA
+"458417","Felis silvestris ornata",NA,NA,NA
+"458416","Felis silvestris cafra",NA,NA,NA
+"427616","Neofelis diardi",NA,NA,NA
+"427615","Neofelis nebulosa nebulosa",NA,NA,NA
+"421001","Panthera pardus fusca",NA,NA,NA
+"419130","Panthera tigris jacksoni","ON312377.1","Panthera tigris jacksoni isolate W42 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5604"
+"402889","Panthera leo atrox",NA,NA,NA
+"399178","Panthera onca mesembrina",NA,NA,NA
+"348288","Panthera pardus japonensis",NA,NA,NA
+"339614","Homotherium serum",NA,NA,NA
+"339613","Homotherium",NA,NA,NA
+"339612","Miracinonyx trumani",NA,NA,NA
+"339611","Miracinonyx",NA,NA,NA
+"339610","unclassified Felidae",NA,NA,NA
+"339609","Smilodon populator",NA,NA,NA
+"338153","Pantherinae","XM_060615069.1","PREDICTED: Panthera onca natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","1150"
+"338152","Felinae","XM_040463391.1","PREDICTED: Herpailurus yagouaroundi natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","999"
+"320633","Felis sp. NG192",NA,NA,NA
+"300877","Prionailurus bengalensis euptilurus",NA,NA,NA
+"253258","Panthera tigris amoyensis",NA,NA,NA
+"235915","Panthera leo x Panthera tigris",NA,NA,NA
+"235557","Panthera leo persica x Panthera leo leo",NA,NA,NA
+"191816","Lynx pardinus",NA,NA,NA
+"147328","Prionailurus bengalensis chinensis",NA,NA,NA
+"146712","Puma","ON312408.1","Puma concolor isolate 274 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5631"
+"83386","Panthera leo persica","ON312389.1","Panthera leo persica isolate W69 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5602"
+"74535","Panthera tigris tigris",NA,NA,NA
+"74534","Panthera tigris corbetti","ON312375.1","Panthera tigris corbetti isolate W44 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5604"
+"74533","Panthera tigris altaica","ON312379.1","Panthera tigris altaica isolate W40 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5601"
+"61455","Catopuma temminckii",NA,NA,NA
+"61454","Catopuma badia",NA,NA,NA
+"61453","Catopuma",NA,NA,NA
+"61452","Neofelis nebulosa","XM_058733289.1","PREDICTED: Neofelis nebulosa natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","1029"
+"61451","Neofelis","XM_058733289.1","PREDICTED: Neofelis nebulosa natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","1029"
+"61412","Profelis aurata",NA,NA,NA
+"61411","Profelis",NA,NA,NA
+"61410","Pardofelis marmorata",NA,NA,NA
+"61409","Pardofelis",NA,NA,NA
+"61408","Otocolobus manul","ON312404.1","Otocolobus manul isolate W3 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5637"
+"61407","Otocolobus","ON312404.1","Otocolobus manul isolate W3 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5637"
+"61405","Leptailurus serval","ON312393.1","Leptailurus serval isolate W7 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5675"
+"61404","Leptailurus","ON312393.1","Leptailurus serval isolate W7 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5675"
+"61403","Prionailurus planiceps",NA,NA,NA
+"61401","Herpailurus","XM_040463391.1","PREDICTED: Herpailurus yagouaroundi natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","999"
+"61394","Caracal caracal","ON312392.1","Caracal caracal isolate W2 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5654"
+"61393","Caracal","ON312392.1","Caracal caracal isolate W2 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5654"
+"61388","Prionailurus viverrinus","XM_047860859.1","PREDICTED: Prionailurus viverrinus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","726"
+"61387","Prionailurus rubiginosus",NA,NA,NA
+"61386","Leopardus guigna",NA,NA,NA
+"61384","Lynx rufus","XM_047101602.1","PREDICTED: Lynx rufus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","745"
+"61383","Lynx canadensis","XM_030315058.1","PREDICTED: Lynx canadensis natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","748"
+"61382","Leopardus wiedii",NA,NA,NA
+"61379","Felis nigripes",NA,NA,NA
+"61378","Felis margarita",NA,NA,NA
+"61377","Felis silvestris lybica",NA,NA,NA
+"61376","Felis chaus",NA,NA,NA
+"46844","Leopardus geoffroyi","ON312394.1","Leopardus geoffroyi isolate W85 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5607"
+"46842","Leopardus tigrinus","ON312397.1","Leopardus tigrinus isolate W8 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5628"
+"46841","Leopardus","ON312397.1","Leopardus tigrinus isolate W8 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5628"
+"37030","Prionailurus iriomotensis",NA,NA,NA
+"37029","Prionailurus bengalensis","ON312406.1","Prionailurus bengalensis isolate W84 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5599"
+"37028","Prionailurus","XM_047860859.1","PREDICTED: Prionailurus viverrinus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","726"
+"32538","Leopardus pardalis",NA,NA,NA
+"32536","Acinonyx jubatus","XM_027058133.2","PREDICTED: Acinonyx jubatus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","1015"
+"32535","Acinonyx","XM_027058133.2","PREDICTED: Acinonyx jubatus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","1015"
+"29064","Panthera uncia","XM_049653652.1","PREDICTED: Panthera uncia natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","991"
+"13266","Smilodon fatalis",NA,NA,NA
+"13265","Smilodon",NA,NA,NA
+"13125","Lynx lynx","ON312400.1","Lynx lynx isolate W6 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5618"
+"13124","Lynx","XM_047101602.1","PREDICTED: Lynx rufus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","745"
+"9696","Puma concolor","ON312408.1","Puma concolor isolate 274 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5631"
+"9695","Panthera tigris sumatrae","ON312381.1","Panthera tigris sumatrae isolate W33 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5600"
+"9694","Panthera tigris","ON312384.1","Panthera tigris isolate W80 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5600"
+"9693","Panthera pardus saxicolor",NA,NA,NA
+"9692","Panthera pardus orientalis","ON312386.1","Panthera pardus orientalis isolate W53 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5610"
+"9691","Panthera pardus","XM_019438883.2","PREDICTED: Panthera pardus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X1, mRNA","1118"
+"9690","Panthera onca","XM_060615069.1","PREDICTED: Panthera onca natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","1150"
+"9689","Panthera leo","ON312391.1","Panthera leo krugeri isolate W65 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5602"
+"9688","Panthera","XM_060615069.1","PREDICTED: Panthera onca natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X3, mRNA","1150"
+"9687","Felis sp.",NA,NA,NA
+"9685","Felis catus","XM_019830350.3","PREDICTED: Felis catus natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","1022"
+"9683","Felis silvestris","ON312410.1","Felis silvestris isolate 713 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5630"
+"9682","Felis","ON312410.1","Felis silvestris isolate 713 natural cytotoxicity triggering receptor 3 (NCR3) gene, complete cds","5630"
+"9681","Felidae","XM_040463391.1","PREDICTED: Herpailurus yagouaroundi natural cytotoxicity triggering receptor 3 (NCR3), transcript variant X2, mRNA","999"
