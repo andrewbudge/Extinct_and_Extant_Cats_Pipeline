@@ -1,9 +1,9 @@
 #!/usr/bin/env
 set -e
 
-INPUT_DIR="$1"      # e.g., raw fasta files
-ALIGNED_DIR="$2"    # e.g., where to save MAFFT alignments
-TRIMMED_DIR="$3"    # e.g., where to save ClipKIT-trimmed alignments
+INPUT_DIR="$1"   
+ALIGNED_DIR="$2"    
+TRIMMED_DIR="$3"   
 
 mkdir -p "$ALIGNED_DIR" "$TRIMMED_DIR"
 
