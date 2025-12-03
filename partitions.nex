@@ -1,0 +1,10 @@
+#NEXUS
+begin sets;
+  charset 12S_trm = 1-983;
+  charset 16S_trm = 984-3544;
+  charset ATP8_trm = 3545-3743;
+  charset COI_trm = 3744-5280;
+  charset CYTB_trm = 5281-6093;
+  charset ND5_trm = 6094-7914;
+  charset NCR1_trm = 7915-15132;
+end;
