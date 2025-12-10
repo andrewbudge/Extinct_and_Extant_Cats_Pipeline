@@ -1,0 +1,399 @@
+IQ-TREE 3.0.1 built May  5 2025
+
+Partition file name: partitions.nex
+Input file name: cat_smx.fas
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 425282
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+Since you used partition models please also cite:
+
+Olga Chernomor, Arndt von Haeseler, and Bui Quang Minh (2016)
+Terrace aware data structure for phylogenomic inference from
+supermatrices. Syst. Biol., 65:997-1008.
+https://doi.org/10.1093/sysbio/syw037
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 59 taxa with 7 partitions and 15132 total sites (34.6358% missing data)
+
+  ID	Type	Seq	Site	Unique	Infor	Invar	Const	Name
+   1	DNA	50	983	329	188	659	659	12S_trm
+   2	DNA	50	2561	572	303	1987	1987	16S_trm
+   3	DNA	55	199	105	76	105	105	ATP8_trm
+   4	DNA	55	1537	599	512	972	972	COI_trm
+   5	DNA	55	813	377	302	458	458	CYTB_trm
+   6	DNA	55	1821	854	690	1006	1006	ND5_trm
+   7	DNA	23	7218	548	231	6708	6708	NCR1_trm
+
+Column meanings:
+  Unique: Number of unique site patterns
+  Infor:  Number of parsimony-informative sites
+  Invar:  Number of invariant sites
+  Const:  Number of constant sites (can be subset of invariant sites)
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TIM2+F+R3:12S_trm,TIM2+F+R3:16S_trm,TN+F+I+G4:ATP8_trm,TPM2u+F+R3:COI_trm,TIM2+F+I+R3:CYTB_trm,TPM2u+F+I+G4:ND5_trm,TPM3u+I+G4:NCR1_trm
+
+List of best-fit models per partition:
+
+  ID  Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+   1  TIM2+F+R3         -5602.600   11227.201 - 2.72e-312   11227.473 - 5.74e-317   11280.998 -        0
+   2  TIM2+F+R3        -11053.778   22129.555 - 2.72e-312   22129.659 - 5.74e-317   22193.885 -        0
+   3  TN+F+I+G4         -1849.343    3714.686 - 2.72e-312    3715.444 - 5.74e-317    3741.033 -        0
+   4  TPM2u+F+R3       -13500.656   27021.313 - 2.72e-312   27021.457 - 5.74e-317   27074.689 -        0
+   5  TIM2+F+I+R3       -8086.088   16196.176 - 2.72e-312   16196.566 - 5.74e-317   16252.585 -        0
+   6  TPM2u+F+I+G4     -17962.862   35941.724 - 2.72e-312   35941.804 - 5.74e-317   35985.781 -        0
+   7  TPM3u+I+G4       -14618.969   29247.937 - 2.72e-312   29247.946 - 5.74e-317   29282.359 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Edge-linked-proportional partition model with separate substitution models and separate rates across sites
+
+  ID  Model           Speed  Parameters
+   1  TIM2+F+R3      0.9598  TIM2{2.734,13.2455,47.8866}+F{0.360061,0.236894,0.17965,0.223395}+R3{0.745796,0.13355,0.205643,2.17603,0.0485605,9.32676}
+   2  TIM2+F+R3      1.0157  TIM2{2.12312,10.0551,34.4985}+F{0.367791,0.214557,0.178551,0.239101}+R3{0.761596,0.165983,0.16769,2.06366,0.0707135,7.46015}
+   3  TN+F+I+G4      2.2171  TN{71.7296,43.6139}+F{0.402659,0.254582,0.0677381,0.27502}+I{0.471059}+G4{1.80916}
+   4  TPM2u+F+R3     2.1255  TPM2u{3.32282,125.186}+F{0.266117,0.233636,0.180186,0.32006}+R3{0.655668,0.016802,0.199001,1.75636,0.145331,4.40007}
+   5  TIM2+F+I+R3    2.5711  TIM2{4.53533,103.444,155.228}+F{0.289827,0.309555,0.128132,0.272486}+I{0.524156}+R3{0.128295,0.428642,0.29418,2.19537,0.0533691,5.60574}
+   6  TPM2u+F+I+G4   2.4517  TPM2u{4.08499,123.944}+F{0.319153,0.28382,0.11682,0.280207}+I{0.511522}+G4{1.44509}
+   7  TPM3u+F+I+G4   0.1835  TPM3u{1.62897,6.91977}+F{0.265553,0.235768,0.261853,0.236826}+I{0.591143}+G4{0.48183}
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -72661.3309 (s.e. 906.9352)
+Unconstrained log-likelihood (without tree): -63002.5120
+Number of free parameters (#branches + #model parameters): 182
+Akaike information criterion (AIC) score: 145686.6619
+Corrected Akaike information criterion (AICc) score: 145691.1178
+Bayesian information criterion (BIC) score: 147074.3331
+
+Mixture-based log-likelihood of the tree: -83930.0882
+Marginal Akaike information criterion (mAIC) score: 168224.1763
+
+Total tree length (sum of branch lengths): 1.3690
+Sum of internal branch lengths: 0.4821 (35.2144% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0001) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Acinonyx_jubatus' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--Acinonyx_jubatus
+|
++--Acinonyx_jubatus_jubatus
+|
+|     +--Acinonyx_jubatus_soemmeringii
+|  +--| (99)
+|  |  |                         +-----Caracal_caracal
+|  |  |                      +--| (100)
+|  |  |                      |  +-----Profelis_aurata
+|  |  |                   +--| (100)
+|  |  |                   |  +-------Leptailurus_serval
+|  |  |                +--| (79)
+|  |  |                |  |              +--------------------------------Homotherium_latidens
+|  |  |                |  |     +--------| (100)
+|  |  |                |  |     |        +---------------Smilodon_populator
+|  |  |                |  |  +--| (100)
+|  |  |                |  |  |  |                    +--------Neofelis_diardi
+|  |  |                |  |  |  |  +-----------------| (100)
+|  |  |                |  |  |  |  |                 +--Neofelis_nebulosa
+|  |  |                |  |  |  +--| (100)
+|  |  |                |  |  |     |                       +--Panthera_leo
+|  |  |                |  |  |     |                    +--| (100)
+|  |  |                |  |  |     |                    |  +--Panthera_leo_persica
+|  |  |                |  |  |     |                 +--| (96)
+|  |  |                |  |  |     |                 |  +--Panthera_leo_leo
+|  |  |                |  |  |     |              +--| (94)
+|  |  |                |  |  |     |              |  +--Panthera_leo_krugeri
+|  |  |                |  |  |     |           +--| (100)
+|  |  |                |  |  |     |           |  |  +--Panthera_leo_atrox
+|  |  |                |  |  |     |           |  +--| (100)
+|  |  |                |  |  |     |           |     +--Panthera_spelaea
+|  |  |                |  |  |     |        +--| (100)
+|  |  |                |  |  |     |        |  |        +--Panthera_pardus_japonensis
+|  |  |                |  |  |     |        |  |     +--| (100)
+|  |  |                |  |  |     |        |  |     |  +--Panthera_pardus_orientalis
+|  |  |                |  |  |     |        |  |  +--| (100)
+|  |  |                |  |  |     |        |  |  |  +--Panthera_pardus_kotiya
+|  |  |                |  |  |     |        |  +--| (100)
+|  |  |                |  |  |     |        |     +--Panthera_pardus_nimr
+|  |  |                |  |  |     |     +--| (99)
+|  |  |                |  |  |     |     |  +-----Panthera_uncia
+|  |  |                |  |  |     |  +--| (100)
+|  |  |                |  |  |     |  |  +-----Panthera_onca
+|  |  |                |  |  |     +--| (100)
+|  |  |                |  |  |        |        +--Panthera_tigris_amoyensis
+|  |  |                |  |  |        |     +--| (78)
+|  |  |                |  |  |        |     |  |        +**Panthera_tigris_corbetti
+|  |  |                |  |  |        |     |  |     +--| (86)
+|  |  |                |  |  |        |     |  |     |  +**Panthera_tigris_jacksoni
+|  |  |                |  |  |        |     |  |  +--| (72)
+|  |  |                |  |  |        |     |  |  |  +--Panthera_tigris
+|  |  |                |  |  |        |     |  +--| (78)
+|  |  |                |  |  |        |     |     |  +--Panthera_tigris_sumatrae
+|  |  |                |  |  |        |     |     +--| (84)
+|  |  |                |  |  |        |     |        +--Panthera_tigris_tigris
+|  |  |                |  |  |        +-----| (100)
+|  |  |                |  |  |              +--Panthera_tigris_altaica
+|  |  |                |  +--| (97)
+|  |  |                |     |          +--Leopardus_geoffroyi
+|  |  |                |     |       +--| (100)
+|  |  |                |     |       |  +--Leopardus_guigna_tigrillo
+|  |  |                |     |    +--| (100)
+|  |  |                |     |    |  |  +--Leopardus_guttulus
+|  |  |                |     |    |  +--| (98)
+|  |  |                |     |    |     +--Leopardus_pardinoides
+|  |  |                |     +----| (100)
+|  |  |                |          |     +-----Leopardus_jacobita
+|  |  |                |          |  +--| (55)
+|  |  |                |          |  |  |  +--Leopardus_pardalis_pardalis
+|  |  |                |          |  |  +--| (100)
+|  |  |                |          |  |     +--Leopardus_wiedii
+|  |  |                |          +--| (61)
+|  |  |                |             +----Leopardus_tigrinus
+|  |  |             +--| (100)
+|  |  |             |  |            +--Felis_catus
+|  |  |             |  |         +--| (100)
+|  |  |             |  |         |  |     +--Felis_silvestris_bieti
+|  |  |             |  |         |  |  +**| (65)
+|  |  |             |  |         |  |  |  +--Felis_margarita
+|  |  |             |  |         |  +--| (59)
+|  |  |             |  |         |     +--Felis_silvestris
+|  |  |             |  |      +--| (81)
+|  |  |             |  |      |  +----Felis_nigripes
+|  |  |             |  |  +---| (100)
+|  |  |             |  |  |   +---Felis_chaus
+|  |  |             |  +--| (100)
+|  |  |             |     |  +--------Otocolobus_manul
+|  |  |             |     +--| (78)
+|  |  |             |        |           +--Prionailurus_bengalensis
+|  |  |             |        |        +--| (100)
+|  |  |             |        |        |  +--Prionailurus_bengalensis_euptilurus
+|  |  |             |        |     +--| (100)
+|  |  |             |        |     |  +--Prionailurus_viverrinus
+|  |  |             |        |  +--| (100)
+|  |  |             |        |  |  +----Prionailurus_planiceps
+|  |  |             |        +--| (100)
+|  |  |             |           +---Prionailurus_rubiginosus
+|  |  |          +--| (80)
+|  |  |          |  |         +--Lynx_canadensis
+|  |  |          |  |     +---| (100)
+|  |  |          |  |     |   |  +--Lynx_lynx
+|  |  |          |  |     |   +--| (80)
+|  |  |          |  |     |      +--Lynx_pardinus
+|  |  |          |  |  +--| (100)
+|  |  |          |  |  |  +----Lynx_rufus
+|  |  |          |  +--| (73)
+|  |  |          |     +----------Pardofelis_marmorata
+|  |  |       +--| (100)
+|  |  |       |  |  +----Catopuma_badia
+|  |  |       |  +--| (100)
+|  |  |       |     +----Catopuma_temminckii
+|  |  +-------| (100)
+|  |          |  +-------Herpailurus_yagouaroundi
+|  |          +--| (98)
+|  |             +------Puma_concolor
++--| (99)
+   +-----Acinonyx_jubatus_venaticus
+
+Tree in newick format:
+
+(Acinonyx_jubatus:0.0001018877,Acinonyx_jubatus_jubatus:0.0003060716,((Acinonyx_jubatus_soemmeringii:0.0007165443,(((((((Caracal_caracal:0.0243529183,Profelis_aurata:0.0237988938)100:0.0134378022,Leptailurus_serval:0.0335921836)100:0.0079323550,(((Homotherium_latidens:0.1267704523,Smilodon_populator:0.0627585508)100:0.0347108910,((Neofelis_diardi:0.0358013904,Neofelis_nebulosa:0.0047195471)100:0.0693872593,((((((((Panthera_leo:0.0007358001,Panthera_leo_persica:0.0011200276)100:0.0011810627,Panthera_leo_leo:0.0012814249)96:0.0021844696,Panthera_leo_krugeri:0.0029953487)94:0.0034664003,(Panthera_leo_atrox:0.0049438111,Panthera_spelaea:0.0040726847)100:0.0069017018)100:0.0103734206,(((Panthera_pardus_japonensis:0.0005797243,Panthera_pardus_orientalis:0.0073843039)100:0.0013159123,Panthera_pardus_kotiya:0.0016007784)100:0.0057366274,Panthera_pardus_nimr:0.0053102451)100:0.0095772832)100:0.0059834335,Panthera_uncia:0.0239451471)99:0.0035739612,Panthera_onca:0.0245184866)100:0.0068351094,((Panthera_tigris_amoyensis:0.0015665316,(((Panthera_tigris_corbetti:0.0000027725,Panthera_tigris_jacksoni:0.0000014293)86:0.0030109023,Panthera_tigris:0.0029890134)72:0.0021668539,(Panthera_tigris_sumatrae:0.0006901076,Panthera_tigris_tigris:0.0009636417)84:0.0004280978)78:0.0012519089)78:0.0048848331,Panthera_tigris_altaica:0.0086333198)100:0.0262998790)100:0.0115867280)100:0.0139526101)100:0.0112346840,(((Leopardus_geoffroyi:0.0080771121,Leopardus_guigna_tigrillo:0.0072835404)100:0.0093535356,(Leopardus_guttulus:0.0137642401,Leopardus_pardinoides:0.0117585868)98:0.0021860137)100:0.0082331254,((Leopardus_jacobita:0.0238342881,(Leopardus_pardalis_pardalis:0.0129451677,Leopardus_wiedii:0.0114765516)100:0.0092878462)55:0.0004932578,Leopardus_tigrinus:0.0209178430)61:0.0019054484)100:0.0204309330)97:0.0058986564)79:0.0017684458,((((Felis_catus:0.0018890505,((Felis_silvestris_bieti:0.0027669050,Felis_margarita:0.0075189654)65:0.0000024297,Felis_silvestris:0.0020363707)59:0.0004330618)100:0.0137947777,Felis_nigripes:0.0214914259)81:0.0029939856,Felis_chaus:0.0187729199)100:0.0164613887,(Otocolobus_manul:0.0366920464,((((Prionailurus_bengalensis:0.0015599413,Prionailurus_bengalensis_euptilurus:0.0011746646)100:0.0078181513,Prionailurus_viverrinus:0.0105351937)100:0.0082796959,Prionailurus_planiceps:0.0209572650)100:0.0063698614,Prionailurus_rubiginosus:0.0188667790)100:0.0091413648)78:0.0020760740)100:0.0043310479)100:0.0050181021,(((Lynx_canadensis:0.0086240331,(Lynx_lynx:0.0104854919,Lynx_pardinus:0.0107196191)80:0.0015670815)100:0.0152744870,Lynx_rufus:0.0213554021)100:0.0134191629,Pardofelis_marmorata:0.0443689349)73:0.0011440152)80:0.0020301511,(Catopuma_badia:0.0191509482,Catopuma_temminckii:0.0224582413)100:0.0131733341)100:0.0065961958,(Herpailurus_yagouaroundi:0.0310468477,Puma_concolor:0.0287144844)98:0.0047993642)100:0.0323836422)99:0.0007687821,Acinonyx_jubatus_venaticus:0.0263849103)99:0.0002360043);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -72661.337467
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--Acinonyx_jubatus
+|
++--Acinonyx_jubatus_jubatus
+|
+|     +--Acinonyx_jubatus_soemmeringii
+|  +--| (99)
+|  |  |                         +-----Caracal_caracal
+|  |  |                      +--| (100)
+|  |  |                      |  +-----Profelis_aurata
+|  |  |                   +--| (100)
+|  |  |                   |  +-------Leptailurus_serval
+|  |  |                +--| (79)
+|  |  |                |  |              +--------------------------------Homotherium_latidens
+|  |  |                |  |     +--------| (100)
+|  |  |                |  |     |        +---------------Smilodon_populator
+|  |  |                |  |  +--| (100)
+|  |  |                |  |  |  |                    +--------Neofelis_diardi
+|  |  |                |  |  |  |  +-----------------| (100)
+|  |  |                |  |  |  |  |                 +--Neofelis_nebulosa
+|  |  |                |  |  |  +--| (100)
+|  |  |                |  |  |     |                       +--Panthera_leo
+|  |  |                |  |  |     |                    +--| (100)
+|  |  |                |  |  |     |                    |  +--Panthera_leo_persica
+|  |  |                |  |  |     |                 +--| (96)
+|  |  |                |  |  |     |                 |  +--Panthera_leo_leo
+|  |  |                |  |  |     |              +--| (94)
+|  |  |                |  |  |     |              |  +--Panthera_leo_krugeri
+|  |  |                |  |  |     |           +--| (100)
+|  |  |                |  |  |     |           |  |  +--Panthera_leo_atrox
+|  |  |                |  |  |     |           |  +--| (100)
+|  |  |                |  |  |     |           |     +--Panthera_spelaea
+|  |  |                |  |  |     |        +--| (100)
+|  |  |                |  |  |     |        |  |        +--Panthera_pardus_japonensis
+|  |  |                |  |  |     |        |  |     +--| (100)
+|  |  |                |  |  |     |        |  |     |  +--Panthera_pardus_orientalis
+|  |  |                |  |  |     |        |  |  +--| (100)
+|  |  |                |  |  |     |        |  |  |  +--Panthera_pardus_kotiya
+|  |  |                |  |  |     |        |  +--| (100)
+|  |  |                |  |  |     |        |     +--Panthera_pardus_nimr
+|  |  |                |  |  |     |     +--| (99)
+|  |  |                |  |  |     |     |  +-----Panthera_uncia
+|  |  |                |  |  |     |  +--| (100)
+|  |  |                |  |  |     |  |  +-----Panthera_onca
+|  |  |                |  |  |     +--| (100)
+|  |  |                |  |  |        |        +--Panthera_tigris_amoyensis
+|  |  |                |  |  |        |     +--| (78)
+|  |  |                |  |  |        |     |  |        +--Panthera_tigris_corbetti
+|  |  |                |  |  |        |     |  |     +--| (86)
+|  |  |                |  |  |        |     |  |     |  +--Panthera_tigris_jacksoni
+|  |  |                |  |  |        |     |  |  +--| (72)
+|  |  |                |  |  |        |     |  |  |  +--Panthera_tigris
+|  |  |                |  |  |        |     |  +--| (78)
+|  |  |                |  |  |        |     |     |  +--Panthera_tigris_sumatrae
+|  |  |                |  |  |        |     |     +--| (84)
+|  |  |                |  |  |        |     |        +--Panthera_tigris_tigris
+|  |  |                |  |  |        +-----| (100)
+|  |  |                |  |  |              +--Panthera_tigris_altaica
+|  |  |                |  +--| (97)
+|  |  |                |     |          +--Leopardus_geoffroyi
+|  |  |                |     |       +--| (100)
+|  |  |                |     |       |  +--Leopardus_guigna_tigrillo
+|  |  |                |     |    +--| (100)
+|  |  |                |     |    |  |  +--Leopardus_guttulus
+|  |  |                |     |    |  +--| (98)
+|  |  |                |     |    |     +--Leopardus_pardinoides
+|  |  |                |     +----| (100)
+|  |  |                |          |     +-----Leopardus_jacobita
+|  |  |                |          |  +--| (55)
+|  |  |                |          |  |  |  +--Leopardus_pardalis_pardalis
+|  |  |                |          |  |  +--| (100)
+|  |  |                |          |  |     +--Leopardus_wiedii
+|  |  |                |          +--| (61)
+|  |  |                |             +----Leopardus_tigrinus
+|  |  |             +--| (100)
+|  |  |             |  |            +--Felis_catus
+|  |  |             |  |         +--| (100)
+|  |  |             |  |         |  |     +--Felis_silvestris_bieti
+|  |  |             |  |         |  |  +--| (65)
+|  |  |             |  |         |  |  |  +--Felis_margarita
+|  |  |             |  |         |  +--| (59)
+|  |  |             |  |         |     +--Felis_silvestris
+|  |  |             |  |      +--| (81)
+|  |  |             |  |      |  +----Felis_nigripes
+|  |  |             |  |  +---| (100)
+|  |  |             |  |  |   +---Felis_chaus
+|  |  |             |  +--| (100)
+|  |  |             |     |  +--------Otocolobus_manul
+|  |  |             |     +--| (78)
+|  |  |             |        |           +--Prionailurus_bengalensis
+|  |  |             |        |        +--| (100)
+|  |  |             |        |        |  +--Prionailurus_bengalensis_euptilurus
+|  |  |             |        |     +--| (100)
+|  |  |             |        |     |  +--Prionailurus_viverrinus
+|  |  |             |        |  +--| (100)
+|  |  |             |        |  |  +----Prionailurus_planiceps
+|  |  |             |        +--| (100)
+|  |  |             |           +---Prionailurus_rubiginosus
+|  |  |          +--| (80)
+|  |  |          |  |         +--Lynx_canadensis
+|  |  |          |  |     +---| (100)
+|  |  |          |  |     |   |  +--Lynx_lynx
+|  |  |          |  |     |   +--| (80)
+|  |  |          |  |     |      +--Lynx_pardinus
+|  |  |          |  |  +--| (100)
+|  |  |          |  |  |  +----Lynx_rufus
+|  |  |          |  +--| (73)
+|  |  |          |     +----------Pardofelis_marmorata
+|  |  |       +--| (100)
+|  |  |       |  |  +----Catopuma_badia
+|  |  |       |  +--| (100)
+|  |  |       |     +----Catopuma_temminckii
+|  |  +-------| (100)
+|  |          |  +-------Herpailurus_yagouaroundi
+|  |          +--| (98)
+|  |             +------Puma_concolor
++--| (99)
+   +-----Acinonyx_jubatus_venaticus
+
+
+Consensus tree in newick format: 
+
+(Acinonyx_jubatus:0.0001014759,Acinonyx_jubatus_jubatus:0.0003057675,((Acinonyx_jubatus_soemmeringii:0.0007161736,(((((((Caracal_caracal:0.0243523609,Profelis_aurata:0.0237984525)100:0.0134369151,Leptailurus_serval:0.0335908478)100:0.0079320891,(((Homotherium_latidens:0.1267680570,Smilodon_populator:0.0627564872)100:0.0347099378,((Neofelis_diardi:0.0358017722,Neofelis_nebulosa:0.0047183594)100:0.0693872289,((((((((Panthera_leo:0.0007357342,Panthera_leo_persica:0.0011190160)100:0.0011794378,Panthera_leo_leo:0.0012815970)96:0.0021955995,Panthera_leo_krugeri:0.0029945959)94:0.0034549215,(Panthera_leo_atrox:0.0049428270,Panthera_spelaea:0.0040724668)100:0.0069004618)100:0.0103746179,(((Panthera_pardus_japonensis:0.0005803357,Panthera_pardus_orientalis:0.0073835086)100:0.0013157231,Panthera_pardus_kotiya:0.0016001345)100:0.0057363003,Panthera_pardus_nimr:0.0053102868)100:0.0095773627)100:0.0059837750,Panthera_uncia:0.0239445553)99:0.0035737049,Panthera_onca:0.0245200861)100:0.0068373007,((Panthera_tigris_amoyensis:0.0015665770,(((Panthera_tigris_corbetti:0.0000027512,Panthera_tigris_jacksoni:0.0000020749)86:0.0027289982,Panthera_tigris:0.0029888249)72:0.0024646523,(Panthera_tigris_sumatrae:0.0006856408,Panthera_tigris_tigris:0.0009647107)84:0.0004230400)78:0.0012546528)78:0.0048945064,Panthera_tigris_altaica:0.0087068735)100:0.0262792853)100:0.0115808278)100:0.0139545312)100:0.0112356866,(((Leopardus_geoffroyi:0.0080768687,Leopardus_guigna_tigrillo:0.0072824510)100:0.0093537402,(Leopardus_guttulus:0.0137637365,Leopardus_pardinoides:0.0117581533)98:0.0021868091)100:0.0082333315,((Leopardus_jacobita:0.0238341648,(Leopardus_pardalis_pardalis:0.0129451972,Leopardus_wiedii:0.0114759889)100:0.0092876694)55:0.0004919056,Leopardus_tigrinus:0.0209169730)61:0.0019055068)100:0.0204301092)97:0.0058985781)79:0.0017678622,((((Felis_catus:0.0018889592,((Felis_silvestris_bieti:0.0027658588,Felis_margarita:0.0075184956)65:0.0000023613,Felis_silvestris:0.0020364395)59:0.0004328204)100:0.0137940408,Felis_nigripes:0.0214909163)81:0.0029950933,Felis_chaus:0.0187722541)100:0.0164599751,(Otocolobus_manul:0.0366920119,((((Prionailurus_bengalensis:0.0015587744,Prionailurus_bengalensis_euptilurus:0.0011743263)100:0.0078176641,Prionailurus_viverrinus:0.0105347176)100:0.0082787590,Prionailurus_planiceps:0.0209574228)100:0.0063705517,Prionailurus_rubiginosus:0.0188665724)100:0.0091410269)78:0.0020751881)100:0.0043305574)100:0.0050184497,(((Lynx_canadensis:0.0086234016,(Lynx_lynx:0.0104852402,Lynx_pardinus:0.0107180965)80:0.0015666458)100:0.0152749926,Lynx_rufus:0.0213557521)100:0.0134187104,Pardofelis_marmorata:0.0443689431)73:0.0011441582)80:0.0020304109,(Catopuma_badia:0.0191514872,Catopuma_temminckii:0.0224582939)100:0.0131735122)100:0.0065968956,(Herpailurus_yagouaroundi:0.0310468232,Puma_concolor:0.0287132554)98:0.0047999004)100:0.0323830507)99:0.0007683683,Acinonyx_jubatus_venaticus:0.0263855704)99:0.0002370865);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t partitions.nex.treefile -p partitions.nex.best_model.nex
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s cat_smx.fas --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s cat_smx.fas --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Nov  2 15:43:08 2025
+Total CPU time used: 306.551763 seconds (0h:5m:6s)
+Total wall-clock time used: 109.694437 seconds (0h:1m:49s)
+
